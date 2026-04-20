@@ -52,11 +52,11 @@ Works on **every** MapleStory version and server type — official, regional and
 
 | Official Servers | Modern Official Variants | Private Servers |
 |:---:|:---:|:---:|
-| GMS | MapleStory N | Artale |
-| KMS | MapleStory Worlds | MapleRoyals |
-| SEA | MapleStory Classic | MapleLegends |
-| EMS | MapleLand | ChronoStory |
-| JMS / CMS / TMS | | …and many more |
+| GMS | MapleStory N | MapleRoyals |
+| KMS | MapleStory Worlds | MapleLegends |
+| SEA | MapleStory Classic | …and many more |
+| EMS | MapleLand | |
+| JMS / CMS / TMS | Artale / ChronoStory | |
 
 > **If your server isn't listed — it still works.** MapleMate uses screen-based AI, so it's compatible with literally any MapleStory client.
 
@@ -85,12 +85,12 @@ Works on **every** MapleStory version and server type — official, regional and
 
 ### 🎯 Lie Detector Solver — Premium Add-on
 
-Automatic LD challenge solver for supported private servers — also sold as a **standalone product** (no bot license needed).
+Automatic LD challenge solver for **Ranmelle** and **Haiku** — also sold as a **standalone product** (no bot license needed).
 
-| Supported | |
+| Supported Servers | What it does |
 |---|---|
-| ✅ Ranmelle | ✅ Haiku |
-| ✅ Works on any server (GMS/KMS/SEA/Artale…) | ✅ Pauses & resumes your script automatically once solved |
+| ✅ Ranmelle | ✅ Solves the LD challenge automatically |
+| ✅ Haiku | ✅ Pauses & resumes your script once solved |
 
 ### 📲 Remote Notifications & Telegram Control
 
