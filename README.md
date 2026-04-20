@@ -24,19 +24,23 @@ Tired of grinding and key-spamming for hours? Let MapleMate do that for you.
 
 ## 🎬 Demo Videos
 
-<div align="center">
-
 ### Auto Bot
-[![Auto Bot Demo](https://img.youtube.com/vi/CgNgf3VVK78/hqdefault.jpg)](https://youtu.be/CgNgf3VVK78)
-[![Auto Bot Demo 2](https://img.youtube.com/vi/jmyLahYj6GQ/hqdefault.jpg)](https://youtu.be/jmyLahYj6GQ)
+
+| | |
+|:---:|:---:|
+| [![Auto Bot Demo](https://img.youtube.com/vi/CgNgf3VVK78/hqdefault.jpg)](https://youtu.be/CgNgf3VVK78) | [![Auto Bot Demo 2](https://img.youtube.com/vi/jmyLahYj6GQ/hqdefault.jpg)](https://youtu.be/jmyLahYj6GQ) |
 
 ### Dynamic Bot (AI-Powered)
-[![Dynamic Bot Demo](https://img.youtube.com/vi/wj9ciyYgdBM/hqdefault.jpg)](https://youtu.be/wj9ciyYgdBM)
-[![Dynamic Bot Demo 2](https://img.youtube.com/vi/3SLVG3cV_Pc/hqdefault.jpg)](https://youtu.be/3SLVG3cV_Pc)
 
-### GMS Auto Cuber & Other Servers
+| | |
+|:---:|:---:|
+| [![Dynamic Bot Demo](https://img.youtube.com/vi/wj9ciyYgdBM/hqdefault.jpg)](https://youtu.be/wj9ciyYgdBM) | [![Dynamic Bot Demo 2](https://img.youtube.com/vi/3SLVG3cV_Pc/hqdefault.jpg)](https://youtu.be/3SLVG3cV_Pc) |
+
+### GMS Auto Cuber
+
+<div align="center">
+
 [![GMS Auto Cuber](https://img.youtube.com/vi/wjgDNFLvBH0/hqdefault.jpg)](https://youtu.be/wjgDNFLvBH0)
-[![Other Servers](https://img.youtube.com/vi/SnkDccMstj4/hqdefault.jpg)](https://youtu.be/SnkDccMstj4)
 
 </div>
 
@@ -46,7 +50,7 @@ Tired of grinding and key-spamming for hours? Let MapleMate do that for you.
 
 Works on **every** MapleStory version and server type — official, regional and private:
 
-| Official / Regional | Modern Variants | Private Servers |
+| Official Servers | Modern Official Variants | Private Servers |
 |:---:|:---:|:---:|
 | GMS | MapleStory N | Artale |
 | KMS | MapleStory Worlds | MapleRoyals |
@@ -86,9 +90,7 @@ Automatic LD challenge solver for supported private servers — also sold as a *
 | Supported | |
 |---|---|
 | ✅ Ranmelle | ✅ Haiku |
-| ✅ Kaizen | ✅ Works on any server (GMS/KMS/SEA/Artale…) |
-
-> Pauses & resumes your script automatically once solved.
+| ✅ Works on any server (GMS/KMS/SEA/Artale…) | ✅ Pauses & resumes your script automatically once solved |
 
 ### 📲 Remote Notifications & Telegram Control
 
